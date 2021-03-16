@@ -1,16 +1,16 @@
-### Hi there 👋
-
-<!--
-**nikhiljha261/nikhiljha261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi There, I'm NIKHIL JHA 👋
+💻 + ☕ = </>
+const nikhil = {
+                    pronouns: "He" | "Him",
+                    code: ["cpp", "html","javascript", "reacjs"],
+                    askMeAbout: ["web dev", "tech", "dsa"],
+                    technologies: {
+                        frontEnd: {
+                            js: ["react"]
+                        },
+                        backEnd: ["php","Node"],
+                        databases: ["mysql"],
+                        misc: ["firebase", "git", "heroku", "figma"]
+                    }
+                    funFact: "There are 10 types of people. Those who can read binary & those who can't !"
+                };
